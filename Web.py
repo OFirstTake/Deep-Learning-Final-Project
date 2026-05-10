@@ -51,7 +51,7 @@ if st.button("Predict Now", use_container_width=True):
                 result = response.json()
                 st.success("Prediction successful!")
                 
-                # Visualize the 30-day historical Open prices leading up to the target date
+                # Visualize the 30-day historical Open Prices leading up to the target date
                 st.subheader(f"30-Day Historical Open Prices ({selected_company})")
                 
                 # Create a DataFrame for the chart
