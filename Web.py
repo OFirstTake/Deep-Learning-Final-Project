@@ -14,7 +14,7 @@ VN_technology = [
 st.set_page_config(page_title="VN Tech Stock Predictor", layout="centered")
 
 st.title("Smart Stock Prediction")
-st.markdown("Predicting the opening prices of Vietnamese technology stocks using a Deep Learning model.")
+st.markdown("Predicting the Open Prices of Vietnamese technology stocks")
 st.markdown("---")
 
 # Create 2 columns for the user to select the Company and Date
