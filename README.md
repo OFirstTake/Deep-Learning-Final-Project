@@ -94,7 +94,7 @@ uvicorn API:app --reload
 Open a new terminal window, activate the virtual environment again, and run the frontend application.
 
 ```bash
-streamlit run app.py
+streamlit run Web.py
 ```
 
 The interactive dashboard will automatically open in your default web browser, typically at `http://localhost:8501`.
